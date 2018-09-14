@@ -1,4 +1,4 @@
-# hello-connie
+# HelloConnie
 
 ### App Description
 CodePath Pre-Work Android App that allows users to change text, background color, and text color. 
