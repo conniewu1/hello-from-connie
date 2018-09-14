@@ -1,10 +1,10 @@
-# hello-from-connie
+# hello-connie
 
 ### App Description
 CodePath Pre-Work Android App that allows users to change text, background color, and text color. 
 
-### App Walk-though
-<img src="http://g.recordit.co/BYfxEhIHX4.gif" width=200><br>
+### App Walk-Through
+<img src="http://g.recordit.co/xMPsECYi2M.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
